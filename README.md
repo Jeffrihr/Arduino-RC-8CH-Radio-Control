@@ -1,3 +1,10 @@
+# DISCLAIMER
+# I'M NOT OWN THIS CODE!!!
+# THIS CODE IS ORIGINALY SHARED BY https://github.com/Gabapentin/Arduino-RC-6CH-Radio-control
+# USE AND SHARE THIS CODE
+# PLEASE CONSIDER TO GIVE CREDIT TO ORIGINAL OWNER IF YOU USE THIS CODE FOR COMMERCIAL
+# ANY COMPLAIN ABOUT THIS CODE CAN CONTACT ME 
+
 # Arduino-RC-8CH-Radio-control
 
 ----------------------------------------------------------------------------------------------------------
